@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
 }
-/* .App {
-  text-align: center;
-} */
+.App {
+  background-color: #111;
+   /* color: white; */
+}
