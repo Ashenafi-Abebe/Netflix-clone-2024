@@ -21,8 +21,8 @@
   },
   "scripts": {
     "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
-    "predeploy":"npm run bulid",
-    "deploy":"gh-pages -d bulid",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
